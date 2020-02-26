@@ -1,0 +1,4 @@
+foo: "foo-service"
+
+server:
+  port: 9090
